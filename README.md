@@ -5,3 +5,6 @@ Activity 1
 
 Activity 2
 <img width="1397" alt="Screenshot 2023-09-10 at 13 12 50" src="https://github.com/amirseken/ECE444-F2023-Assignment1/assets/74365816/3b27b7b0-6d89-4af5-84ae-eae2f39d55c0">
+
+Activity 3
+<img width="1375" alt="Screenshot 2023-09-10 at 13 48 30" src="https://github.com/amirseken/ECE444-F2023-Assignment1/assets/74365816/f922fabb-5682-44a7-add0-7ec308f13b15">
