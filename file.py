@@ -1,7 +1,7 @@
 class utils:
 
     def reversed(num):
-    
+        print("Hello")
         reversed_num = 0
         while num != 0:
             digit = num % 10
