@@ -11,6 +11,7 @@ class utils:
         
    
     def formatter(num):
+        print("Hello")
         return (bin(num), oct(num))
 
    
